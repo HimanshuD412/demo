@@ -1,0 +1,52 @@
+######################################
+# ===== SPRING BOOT / JAVA =====
+######################################
+
+# Maven / Gradle build output
+target/
+build/
+
+# Logs
+*.log
+
+######################################
+# ===== REACT / NODE =====
+######################################
+
+# Node dependencies
+node_modules/
+
+# Production builds
+build/
+dist/
+
+######################################
+# ===== IDE / EDITOR =====
+######################################
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+######################################
+# ===== OS FILES =====
+######################################
+
+Thumbs.db
+.DS_Store
+
+######################################
+# ===== ENV FILES =====
+######################################
+
+.env
+.env.local
+.env.*.local
